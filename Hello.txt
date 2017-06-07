@@ -1,0 +1,5 @@
+;this is the Hello world program program
+#
+show Hello
+show "Hello World"
+#

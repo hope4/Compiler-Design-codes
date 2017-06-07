@@ -1,0 +1,15 @@
+;This is the expression evaluation program
+int a,int b,int c,int d,int e,
+#
+a=1
+b=2
+c=a+b
+d=a/b
+e=a*b
+show "Value of c is"
+show c
+show "Value of d is"
+show d
+show "Value of e is"
+show e
+#

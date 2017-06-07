@@ -1,0 +1,22 @@
+;This is a Program
+int a,
+#
+a=3
+switch a:
+case 1:
+show "a is equal to one"
+cut
+case 2:
+show "a is equal to two"
+cut
+case 3:
+show "a is equal to three"
+cut
+case 4:
+show "a is equal to four"
+cut
+default:
+show "itsover"
+cut
+stop
+#

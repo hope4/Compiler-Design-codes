@@ -1,0 +1,15 @@
+;This program is function
+int a,int b,int c,int d,
+#
+a=8
+b=2
+add:a,b,:
+#
+int add:int a,int b,:
+c=a+b
+d=a*b
+show "Addition of a and b is"
+show c
+show "Multiplication of a and b is"
+show d
+stop

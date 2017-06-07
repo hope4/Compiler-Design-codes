@@ -1,0 +1,11 @@
+;This is the conditional program
+int a,int b,
+#
+a=5
+b=1
+if a<b then
+show "a is less than b"
+else
+show "a is greater than b"
+stop
+#
