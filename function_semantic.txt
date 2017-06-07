@@ -1,0 +1,11 @@
+; this is function program
+int a,int b,int c,
+#
+add:a,b,c,:
+#
+int add:int a,int b,int c,:
+a=10
+b=20
+c=a+b
+show c
+stop

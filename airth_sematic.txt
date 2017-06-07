@@ -1,0 +1,18 @@
+; this is the test program
+int a,int b,int c,
+#
+a=10000
+b=20000
+c=a+b
+show c
+c=b-a
+show c
+c=a*b
+show c
+c=b%a
+show c
+c=a/b
+show c
+c=5^3
+show c
+#
