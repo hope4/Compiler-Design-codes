@@ -1,0 +1,18 @@
+
+int a,int b,int c,int x,int y,
+#
+a=10
+b=15
+c=a+b
+b=b+c
+	 	
+
+if a>b 
+      x=x+y
+       else
+      y=y+1
+stop
+
+#		
+
+

@@ -1,0 +1,19 @@
+
+int a,int b,int c,int x,int y,
+#
+a=10
+b=15
+c=a+b
+
+	 	
+for x=1, x>y, x=x+1,
+        if a>b 
+	   m=m+1
+	else 
+	 n=n*1
+	stop
+stop
+
+#		
+
+
